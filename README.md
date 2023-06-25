@@ -4,7 +4,6 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Admin Documentation](#admin-documentation)
 - [Developer Guide](#developer-guide)
 - [Contributions and Support](#contributions-and-support)
 - [License](#license)
