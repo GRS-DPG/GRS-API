@@ -1,4 +1,4 @@
-# Welcome to the Skills and certification management system
+# Welcome to the Grievance Redress System
 
 - [Authors](#authors)
 - [Prerequisites](#prerequisites)
@@ -12,7 +12,6 @@
 
 - [@Biplob](https://www.linkedin.com/in/ekramul-kabir-biplob/)
 - [@Tappware Solutions Limited](https://tappware.com/)
-- [@Sky Digital (BD) Limited](https://www.skydigitalbd.com/)
 
 
 ## Prerequisites
