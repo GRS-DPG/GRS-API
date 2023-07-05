@@ -38,7 +38,7 @@ cd project-root
 composer install
 ```
 
-##### Copy `.env-example` to `.env` and configure your database and other connection.
+##### Copy `.env-example` to `.env` and download database from [database/test-db](https://github.com/GRS-DPG/GRS-API/tree/master/database/test-db) folder and configure your database and other connection.
 
 ##### Run this two command also
 
@@ -51,18 +51,6 @@ php artisan storage:link
 
 ```shell
 php artisan migrate:fresh --seed
-```
-
-##### Run this command to seed menu permission
-
-```shell
-php artisan db:seed --class=TablePermissionKeySeeder
-```
-
-##### Run this command to seed menu permission for system admin, institute admin, branch admin, training center admin and triner
-
-```shell
-php artisan db:seed --class=RoleWisePermissionSeeder
 ```
 
 ##### Run this command to clear all type of cache
