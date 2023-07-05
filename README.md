@@ -1,4 +1,4 @@
-# Welcome to the Grievance Redress System
+# Welcome to the Grievance Redress System (Backend)
 
 - [Authors](#authors)
 - [Prerequisites](#prerequisites)
