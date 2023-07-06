@@ -1,6 +1,7 @@
 # Welcome to the Grievance Redress System (Backend)
 
 - [Authors](#authors)
+- [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,7 +14,13 @@
 - [@Biplob](https://www.linkedin.com/in/ekramul-kabir-biplob/)
 - [@Tappware Solutions Limited](https://tappware.com/)
 
+## Features
 
+- [Complianant Features](https://github.com/GRS-DPG/GRS-Documentations/blob/master/md/3.1%20GRS-Complianant-Manual/3.1%20GRS-Complianant-Manual.md)
+- [Admin Features](https://github.com/GRS-DPG/GRS-Documentations/blob/master/md/3.2%20GRS%20Admin%20Manual/3.2%20GRS%20Admin%20Manual.md)
+- [GRO & Appeal Officer Features](https://github.com/GRS-DPG/GRS-Documentations/blob/master/md/3.3%20GRS%20GRO%20_%20Appeal%20Officer%20Manual/3.3%20GRS%20GRO%20_%20Appeal%20Officer%20Manual.md)
+
+  
 ## Prerequisites
 
 Before proceeding with the installation, make sure you have the following software installed on your system:
@@ -103,12 +110,12 @@ password: 02522016
 
 ## Contributions and Support
 
-Thanks to [everyone](https://github.com/a2i-dpg/skills-and-certification/graphs/contributors)
+Thanks to [everyone](https://github.com/GRS-DPG/GRS-WEB/graphs/contributors)
 who has contributed to this project!
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) to contribute.
 
-If you found any bugs, Please report it using [Github](https://github.com/a2i-dpg/skills-and-certification/issues)
+If you found any bugs, Please report it using [Github](https://github.com/GRS-DPG/GRS-WEB/issues)
 
 ## License
 
